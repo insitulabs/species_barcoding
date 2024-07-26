@@ -10,4 +10,4 @@ Sections of the data processing pipleine include:
 - Generating consensus sequence for each sample (collapse many reads into a few representative sequences, trimer primer regions, and polishing contigs)
 - Merging consesnsus contigs with metadata and outputting in a data table and fasta format
 
-  Annotated code snippets are forthcoming.
+Annotated code snippets are forthcoming.
