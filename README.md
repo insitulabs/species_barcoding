@@ -1,6 +1,6 @@
 # species_barcoding
 
-This repository is a supplemental resource to the a publication entitled **Decoding the Amazon: In situ DNA barcoding of vertebrate and plant taxa of the Peruvian Amazon**
+This repository is a supplemental resource to a publication entitled **Decoding the Amazon: In situ DNA barcoding of vertebrate and plant taxa of the Peruvian Amazon**
 
 Sections of the data processing pipleine include:
 
