@@ -9,5 +9,6 @@ Sections of the data processing pipleine include:
 - Demultiplexing sequences into sample folders
 - Generating consensus sequence for each sample (collapse many reads into a few representative sequences, trimer primer regions, and polishing contigs)
 - Merging consesnsus contigs with metadata and outputting in a data table and fasta format
+- an R script that was generated for basic summarization and comparison of the new sequence data to existing refenence sequence information
 
 Annotated code snippets are forthcoming.
